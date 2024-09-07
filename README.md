@@ -106,6 +106,22 @@ curent model. The user is shown the outcome once the forecast has been completed
 
 ## Result 
 
+1. Frontend: 
 
+<h4>Home Page - </h4>
 
+![Banner](https://github.com/Samarth5101/Heart_Attack_Prediction_System/blob/9491bc83ff88f505ff96fa49d31ee97c62f1467d/Results/home%20page.png)
 
+<h4>Predict Page - </h4>
+
+![Banner](https://github.com/Samarth5101/Heart_Attack_Prediction_System/blob/9491bc83ff88f505ff96fa49d31ee97c62f1467d/Results/predict%20page.png)
+
+<h4>User List - </h4>
+
+![Banner](https://github.com/Samarth5101/Heart_Attack_Prediction_System/blob/9491bc83ff88f505ff96fa49d31ee97c62f1467d/Results/user%20list.png)
+
+2. Backend:
+
+<h4>Backend's Result - </h4>
+
+![Banner](https://github.com/Samarth5101/Heart_Attack_Prediction_System/blob/6f4cc7377028df5dd4a48631be9c2e00db785869/Results/Backend's%20Result.png)

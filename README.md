@@ -5,17 +5,16 @@
 
 <h2>Table of Contents</h2>
 
-Introduction  
-Project Structure  
-Installation  
-Usage    
-Model Explanation  
-Results  
-Future Improvements  
-Contributors  
+* Introduction  
+* Project Structure  
+* Installation  
+* Usage    
+* Model Explanation  
+* Results  
+* Contributors  
 
 ## Introduction
-The Heart Attack Prediction System is a machine learning project designed to predict the likelihood of a heart attack based on several health parameters like cholesterol level, blood pressure (Systolic & Diastolic), heart rate, gender, blood sugar, CK-MB, troponin, and age. The model was developed using Python, and it utilizes logistic regression and random forest classifiers. 
+The Heart Attack Prediction System is a machine learning project designed to predict the likelihood of a heart attack based on several health parameters like cholesterol level, blood pressure (Systolic & Diastolic), heart rate, gender, blood sugar, CK-MB, troponin, and age. The model was developed using Python, utilizing logistic regression and random forest classifiers. 
 
 ## Project Structure
 
@@ -39,7 +38,7 @@ Heart_Attack_Prediction_System/
 
 ## Instalation
 
-Pre-requisite: Git Bash, download latest version of git bash from; https://git-scm.com/downloads
+Pre-requisite: Git Bash, download the latest version of git bash from; https://git-scm.com/downloads
 
 Follow these steps to set up the project on your local machine, try these commands to put on GitBash:
 
@@ -59,7 +58,7 @@ Follow these steps to set up the project on your local machine, try these comman
 
 After, Installing this repository and poking gitbash you should run some commands on your terminal of your local IDE, but before this please add this whole project on your local IDE.
 
-Try these commands on your loacal IDE : 
+Try these commands on your local IDE : 
 
 1. **For Backend**  
    1.1 Open up a fresh terminal and type:  
@@ -82,18 +81,17 @@ Try these commands on your loacal IDE :
        `http://localhost:XXXX/`  
    4.4 This allows you to test and view your application in a browser before deploying it to a         live server.
 
-Conclusion: This whole process will land you at the home page of this project. Navigate to Predict page, enter your details and boom 💥 here is your answer or a prediction that you might have or not have heart attack on the same health conditions.
+Conclusion: This whole process will land you on the home page of this project. Navigate to the Predict page, enter your details, and boom 💥 here is your answer or a prediction that you might have or not have a heart attack on the same health conditions.
 
 ## Model Explanation
 
 <h3> Logistic Regression </h3>
 The compilation of data is an essential stage in the logistic regression prediction of heart 
 attacks. For the model to work well, preprocessing characteristics like age, blood 
-pressure, and cholesterol levels is necessary. To properly assess the performance of the 
-model, the prepared data is divided into training and testing sets. Subsequently, the model 
+pressure, and cholesterol levels is necessary. The prepared data is divided into training and testing sets to properly assess the model's performance. Subsequently, the model 
 is trained using logistic regression to determine the correlation between these attributes 
 and the risk of a heart attack. Metrics such as accuracy are computed to measure the 
-predictive power of the model after it has been trained on the test set. To enhance 
+model's predictive power after it has been trained on the test set. To enhance 
 performance and develop a trustworthy heart attack prediction system, model 
 modifications or feature engineering can be required. 
 
@@ -102,7 +100,7 @@ The logistic function is of the form: p(x)={1/1+e^{-(x )}
 The Flask web framework is used in the creation of the web application. Either the 
 physician or the patient can log in to the system, enter the patient's health information, 
 and press the "predict" button. For prediction, the provided input is compared with the
-curent model. The user is shown the outcome once the forecast has been completed. 
+current model. The user is shown the outcome once the forecast has been completed. 
 
 ## Result 
 
@@ -125,3 +123,10 @@ curent model. The user is shown the outcome once the forecast has been completed
 <h4>Backend's Result - </h4>
 
 ![Banner](https://github.com/Samarth5101/Heart_Attack_Prediction_System/blob/6f4cc7377028df5dd4a48631be9c2e00db785869/Results/Backend's%20Result.png)
+
+## Contributors
+
+* Samarth Mishra - https://github.com/Samarth5101
+* Shruti Gontia - https://github.com/Shruti5101
+
+<----------------X--------------X------------X-------------X--------------X------------------->
